@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SpaceM Calvary Chapel Yuma",
-    "currentPage": "index.html",
+    "currentPage": "gallery.html",
     "theme": {
       "name": "spacem",
       "title": "SpaceM",
@@ -22,8 +22,8 @@
     "noImageResize": "",
     "scrollAnimation": "",
     "versionFirst": "3.9.2",
-    "uniqCompNum": 25,
-    "versionPublish": "3.9.2",
+    "uniqCompNum": 58,
+    "versionPublish": "3.10",
     "publishType": "github",
     "publishPath": "file:///C:/Users/JohnB/Documents/Mobirise/CCYUMA"
   },
@@ -687,282 +687,6 @@
         }
       ]
     },
-    "about.html": {
-      "settings": {
-        "title": "About CCYuma"
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#000000"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
-            },
-            ".link, .dropdown-item": {
-              "color": "#000000"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "#222"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#fff"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#000000",
-              "transition": "none"
-            },
-            ".navbar-toggler i, .navbar-toggler em, .navbar-toggler i:before, .navbar-toggler em:before, .navbar-toggler i:after, .navbar-toggler em:after": {
-              "background": "#000000"
-            },
-            ".navbar-toggler[aria-expanded=\"true\"] i, .navbar-toggler[aria-expanded=\"true\"] em": {
-              "background": "transparent"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "#222"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#222!important"
-            }
-          },
-          "alias": "spacem/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu1",
-          "_anchor": "menu1-b",
-          "_params": {
-            "bgColor": "#fff",
-            "fontSize": 0.75,
-            "fontName": {},
-            "fontColor": "#000000",
-            "fontHoverColor": "#222",
-            "transparent": true,
-            "sticky": false,
-            "logo": false
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/my-final-logo-128x128-51.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"connect.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"connect.html\">Connect</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">About &nbsp;us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">About CCYuma</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Serve &amp; give</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">about us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">The word</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a></div></li>"
-        }
-      ]
-    },
-    "sevants.html": {
-      "settings": {
-        "title": "The Servants"
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#000000"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
-            },
-            ".link, .dropdown-item": {
-              "color": "#000000"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "#222"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#fff"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#000000",
-              "transition": "none"
-            },
-            ".navbar-toggler i, .navbar-toggler em, .navbar-toggler i:before, .navbar-toggler em:before, .navbar-toggler i:after, .navbar-toggler em:after": {
-              "background": "#000000"
-            },
-            ".navbar-toggler[aria-expanded=\"true\"] i, .navbar-toggler[aria-expanded=\"true\"] em": {
-              "background": "transparent"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "#222"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#222!important"
-            }
-          },
-          "alias": "spacem/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu1",
-          "_anchor": "menu1-c",
-          "_params": {
-            "bgColor": "#fff",
-            "fontSize": 0.75,
-            "fontName": {},
-            "fontColor": "#000000",
-            "fontHoverColor": "#222",
-            "transparent": true,
-            "sticky": false,
-            "logo": false
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/my-final-logo-128x128-51.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"connect.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"connect.html\">Connect</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">About &nbsp;us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">About CCYuma</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Serve &amp; give</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">about us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">The word</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a></div></li>"
-        }
-      ]
-    },
-    "gallery.html": {
-      "settings": {
-        "title": "Photo Gallery"
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#000000"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
-            },
-            ".link, .dropdown-item": {
-              "color": "#000000"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "#222"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#fff"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#000000",
-              "transition": "none"
-            },
-            ".navbar-toggler i, .navbar-toggler em, .navbar-toggler i:before, .navbar-toggler em:before, .navbar-toggler i:after, .navbar-toggler em:after": {
-              "background": "#000000"
-            },
-            ".navbar-toggler[aria-expanded=\"true\"] i, .navbar-toggler[aria-expanded=\"true\"] em": {
-              "background": "transparent"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "#222"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#222!important"
-            }
-          },
-          "alias": "spacem/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu1",
-          "_anchor": "menu1-d",
-          "_params": {
-            "bgColor": "#fff",
-            "fontSize": 0.75,
-            "fontName": {},
-            "fontColor": "#000000",
-            "fontHoverColor": "#222",
-            "transparent": true,
-            "sticky": false,
-            "logo": false
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/my-final-logo-128x128-51.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"connect.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"connect.html\">Connect</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">About &nbsp;us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">About CCYuma</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Serve &amp; give</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">about us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">The word</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a></div></li>"
-        }
-      ]
-    },
     "give.html": {
       "settings": {
         "title": "Give on line"
@@ -1338,7 +1062,43 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">connect</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://ccyuma.com/church-service-times.html\">Service times</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://ccyuma.com/small-groups.html\">Small Groups</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://ccyuma.com/contact-us.html\">Upcoming Events</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://ccyuma.com/calendar.html\">Calendar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.ccyuma.com/events/bulletin.pdf\">Weekly Bulletin</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">About us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://ccyuma.com/about-calvary-chapel.html\">About CCYUMA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://ccyuma.com/about-the-servants.html\">The Servants</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Photo Gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.ccyuma.com/yuma/yuma_links.html\">Desert Southwest</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Map and Directions</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">serve and give</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Give on Line</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Current Needs</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">the word</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.ccyuma.com/recorded_messages/recorded_messages.html\">Mp3 Audio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://itunes.apple.com/us/podcast/calvary-chapel-of-yuma/id420316285?mt=2\">Itunes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://tunein.com/radio/Calvary-Chapel-of-Yuma-Podcast-p519187/\">Tune-In</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.ccyuma.com/ebooks/ebooks.html\">E-Books</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.youtube.com/channel/UCK_NlsGgnLBRBAyRyPR7oHw\">YouTube</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.ccyuma.com/bible/bible.html\">Bible Library</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://ccyuma.com/contact-us.html\">Contact Us</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">connect</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://ccyuma.com/church-service-times.html\">Service times</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://ccyuma.com/small-groups.html\">Small Groups</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://ccyuma.com/contact-us.html\">Upcoming Events</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://ccyuma.com/calendar.html\">Calendar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.ccyuma.com/events/bulletin.pdf\">Weekly Bulletin</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">About us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about-calvary-chapel-yuma.html\">About CCYUMA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://ccyuma.com/about-the-servants.html\">The Servants</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Photo Gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.ccyuma.com/yuma/yuma_links.html\">Desert Southwest</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Map and Directions</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">serve and give</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Give on Line</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Current Needs</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">the word</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.ccyuma.com/recorded_messages/recorded_messages.html\">Mp3 Audio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://itunes.apple.com/us/podcast/calvary-chapel-of-yuma/id420316285?mt=2\">Itunes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://tunein.com/radio/Calvary-Chapel-of-Yuma-Podcast-p519187/\">Tune-In</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.ccyuma.com/ebooks/ebooks.html\">E-Books</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.youtube.com/channel/UCK_NlsGgnLBRBAyRyPR7oHw\">YouTube</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.ccyuma.com/bible/bible.html\">Bible Library</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://ccyuma.com/contact-us.html\">Contact Us</a></li>"
+        },
+        {
+          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">download now</a>",
+          "alias": "spacem/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "text1",
+          "_anchor": "text1-12",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "bgColor": "#757575",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#151515",
+            "showTitle": true,
+            "showText": true
+          },
+          "title": "",
+          "text": "TO KNOW HIM &amp; TO MAKE HIM KNOWN<br>________________________________________________________",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "48px",
+              "color": "#e5e5e5"
+            }
+          }
         },
         {
           "alias": "spacem/components",
@@ -1352,7 +1112,8 @@
               "font-size": "14px"
             },
             "SPAN": {
-              "font-size": "60px"
+              "font-size": "60px",
+              "color": "#e5e5e5"
             }
           },
           "_anchor": "header3-1",
@@ -1362,7 +1123,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/header5.jpg",
-            "bgColor": "#03592d",
+            "bgColor": "#757575",
             "bgColorRadio": true,
             "bgVideo": {
               "width": 1280,
@@ -1424,7 +1185,7 @@
             "parallax": false,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/2.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#757575",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1500,17 +1261,619 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "4",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/social.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/social.jpg",
+            "bgColor": "#757575",
+            "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222"
           },
           "text": "<span>Follow us</span>",
           "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/calvarychapelyuma/?fref=ts\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
+        }
+      ]
+    },
+    "about-calvary-chapel-yuma.html": {
+      "settings": {
+        "title": "Calvary Chapel Yuma",
+        "meta_descr": "Calvary Chapel Yuma Arizona is a non-denominational church focused on the inerrancy of the Bible and the expository teaching from Genesis to Revelation.",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "#fff"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#cccccc"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#dddddd!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#e5e5e5"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".navbar-toggler i, .navbar-toggler em, .navbar-toggler i:before, .navbar-toggler em:before, .navbar-toggler i:after, .navbar-toggler em:after": {
+              "background": "#000000"
+            },
+            ".navbar-toggler[aria-expanded=\"true\"] i, .navbar-toggler[aria-expanded=\"true\"] em": {
+              "background": "transparent"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#fff"
+            },
+            ".link[aria-expanded=\"true\"]": {
+              "color": "#fff!important"
+            },
+            ".dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#222!important"
+            }
+          },
+          "alias": "spacem/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu2",
+          "_anchor": "menu2-u",
+          "_params": {
+            "bgColor": "#e5e5e5",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#000000",
+            "fontHoverColor": "#fff",
+            "fontActiveColor": "#222",
+            "transparent": true,
+            "sticky": true,
+            "logo": true
+          },
+          "contacts": "<a data-app-btn=\"true\" href=\"tel:+123 (456) 7890 123\"><span class=\"fa fa-phone mbr-iconfont mbr-iconfont-btn\"></span> +123 (456) 7890 123</a><a data-app-btn=\"true\" href=\"mailto:sample@sample.com\"><span class=\"fa fa-envelope-o mbr-iconfont mbr-iconfont-btn\"></span> sample@sample.com</a>",
+          "icons": "<a data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><i class=\"icon-twitter\"></i></a> <a data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"icon-facebook\"></i></a> <a data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"icon-googleplus\"></i></a> <a data-app-btn=\"true\" title=\"Youtube\" target=\"_blank\" href=\"http://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"icon-dribbble\"></i></a> ",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/my-final-logo-128x128-23.png",
+              "height": 128,
+              "alt": "Calvary Chapel Yuma",
+              "link": "index.html",
+              "title": "Calvary Chapel Yuma",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">connect</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://ccyuma.com/church-service-times.html\">Service times</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://ccyuma.com/small-groups.html\">Small Groups</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://ccyuma.com/contact-us.html\">Upcoming Events</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://ccyuma.com/calendar.html\">Calendar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.ccyuma.com/events/bulletin.pdf\">Weekly Bulletin</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">About us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about-calvary-chapel-yuma.html\">About CCYUMA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://ccyuma.com/about-the-servants.html\">The Servants</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Photo Gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.ccyuma.com/yuma/yuma_links.html\">Desert Southwest</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Map and Directions</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">serve and give</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Give on Line</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Current Needs</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">the word</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.ccyuma.com/recorded_messages/recorded_messages.html\">Mp3 Audio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://itunes.apple.com/us/podcast/calvary-chapel-of-yuma/id420316285?mt=2\">Itunes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://tunein.com/radio/Calvary-Chapel-of-Yuma-Podcast-p519187/\">Tune-In</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.ccyuma.com/ebooks/ebooks.html\">E-Books</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.youtube.com/channel/UCK_NlsGgnLBRBAyRyPR7oHw\">YouTube</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.ccyuma.com/bible/bible.html\">Bible Library</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://ccyuma.com/contact-us.html\">Contact Us</a></li>"
+        },
+        {
+          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">download now</a>",
+          "alias": "spacem/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "text1",
+          "_anchor": "text1-z",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "bgColor": "#03592d",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#151515",
+            "showTitle": true,
+            "showText": true
+          },
+          "title": "Statement of Faith",
+          "text": "<br>We are a fellowship of believers in the Lordship of Jesus Christ. Our greatest desire is to worship and magnify Him and to be conformed to His image through the work of the Holy Spirit. This is why we gather throughout the week for worship, prayer, communion, Bible study, and fellowship (Acts 2:42-47).<br> <br>We are not a denominational church, nor are we opposed to denominations, as such. We are opposed only to the emphasis of non-biblical teachings that divide the Body of Christ (Colossians 2:4,8; Galatians 1:6-10).<br> <br>We believe that the true basis of Christian fellowship is God's (agapé) love, which is greater than our differences. Without His love we have no right to say we are Christians (1 Corinthians 13:1-13; Galatians 5:22-26).<br> <br>We believe worship of God should be spiritual. Therefore we remain flexible so the Holy Spirit may direct our worship.<br> <br>We believe worship of God should be inspirational. Therefore we give a great place to music in our worship.<br> <br>We believe worship of God should be intelligent. Therefore we emphasize Bible teaching in our services so God may instruct us how He should be worshiped.<br> <br>We believe worship of God should be fruitful. Therefore we look for His love in our lives as the greatest evidence that we are truly worshiping him.<br> <br>We believe the Bible is the Word of God inspired and without error in its original manuscripts. It is our only source of authority in matters of faith, conduct and truth.<br> <br>We believe God is one eternal King, personal and knowable, who manifests Himself in three distinct persons: God the Father, God the Son and God the Holy Spirit. He is worthy of our worship, confidence and obedience.<br> <br>We believe in the deity of our Lord Jesus Christ who is eternal, pre-existent Son of God. He willingly took on the body of a man, was virgin born, became our sinless substitute, shed His blood on the cross to completely pay for the atonement of our sins. We believe He died, was buried and resurrected in a literal body, ascended into Heaven, and is presently our Advocate and only High Priest.<br> <br>We believe the ministry of the Holy Spirit is to convict the lost, seal the believer and place him or her in the Body of Christ. The fruit of the Holy Spirit in one's life is love. We believe in the baptism of the Holy Spirit but we do not believe that any special gift is necessary as evidence of salvation or of being filled with the Spirit.<br> <br>We believe every person is born spiritually dead with a sinful nature and cannot please God until Christ gives Him life. We believe salvation from sin, death and hell is solely by God's grace. It must be received by faith apart from any human performance or merit and is a free gift of God to anyone who personally place his confidence in the Lord Jesus Christ and His finished work on the cross. We believe that a truly born again person is secure in Christ.<br> <br>We believe in the resurrection of the saved and the unsaved; the saved unto the resurrection of life and the unsaved unto the resurrection of damnation.<br> <br>We believe that all believers should assemble in local churches for mutual edification, encouragement, evangelism, service and worship. Within our fellowship, as an act of obedience to the Word of God, we share our love of Christ through participation in the signs of the New Covenant: The Lord's Supper and the Baptism by immersion in water.<br> <br>We believe the Lord Jesus Christ will remove His Church, to meet them in the air, before the tribulation and before His millennial reign. But, He will physically return to earth to set up His kingdom for a literal one thousand-year millennial reign after the seven-year tribulation period.<br> <br>Thank you for reading.  If you have more questions, please<br>feel free to contact us through the \"Contact Us\"<br>option in the menu above.  To learn more about our staff, click on the<br>\"About the Servants\" link, under \"About Us\"<br>",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            },
+            "H3": {
+              "text-align": "center"
+            }
+          }
+        }
+      ]
+    },
+    "servants.html": {
+      "settings": {
+        "title": "The Servants"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "#222"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#fff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".navbar-toggler i, .navbar-toggler em, .navbar-toggler i:before, .navbar-toggler em:before, .navbar-toggler i:after, .navbar-toggler em:after": {
+              "background": "#000000"
+            },
+            ".navbar-toggler[aria-expanded=\"true\"] i, .navbar-toggler[aria-expanded=\"true\"] em": {
+              "background": "transparent"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#222"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#222!important"
+            }
+          },
+          "alias": "spacem/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu1",
+          "_anchor": "menu1-c",
+          "_params": {
+            "bgColor": "#fff",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#000000",
+            "fontHoverColor": "#222",
+            "transparent": true,
+            "sticky": false,
+            "logo": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/my-final-logo-128x128-51.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"connect.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"connect.html\">Connect</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">About &nbsp;us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">About CCYuma</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Serve &amp; give</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">about us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">The word</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a></div></li>"
+        },
+        {
+          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">download now</a>",
+          "alias": "spacem/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "text1",
+          "_anchor": "text1-11",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#151515",
+            "showTitle": true,
+            "showText": true
+          },
+          "title": "",
+          "text": "<i>\"For you were called to freedom, brothers. Only do not use your freedom as an opportunity for the flesh, but through love serve one another.\"</i><i>GAL 5:13</i><br>",
+          "_styles": {
+            "I": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "30px",
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "alias": "spacem/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-14",
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/garcia-family-1400x830-36.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "_params": {
+            "showText": false
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">download now</a>",
+          "alias": "spacem/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "text1",
+          "_anchor": "text1-10",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#151515",
+            "showTitle": true,
+            "showText": true
+          },
+          "title": "About Pastor Albert",
+          "text": "<span style=\"background-color: inherit;\">Pastor Albert Garcia is the Senior Pastor of Calvary Chapel Yuma. Born in Southern California, and raised in Yuma. He has served in various ministries at Calvary Yuma since 2006, some of which include Children's ministry (Sunday School teacher and Administrator), street evangelism, leading and hosting Home Bible studies, and as the Assistant Pastor. In 2013, the Lord called Pastor Albert to be the Senior Pastor here at Calvary Yuma, Albert has faithfully stepped up to the plate. Our pastor teaches and preaches the Word of God in a unique expositional style (verse by verse &amp; point by point), those who are present during his messages will not leave without having been challenged by the Word of God. Pastor Albert Has been married to wife Cinthia since 2005 and are the parents of three wonderful kids, Jaquie  Albert Jr and  Arabella.</span><br> <br> <br>A &nbsp; &nbsp;W O R D &nbsp; &nbsp;F R O M &nbsp; &nbsp;P A S T O R &nbsp; &nbsp;A L B E R T<br> <br>       Before receiving Jesus as my Lord and Savior my life was consumed by gang activity, drugs, and alcohol.   The self destructive life that I chose to live was taking me nowhere. It wasn't until I was handcuffed in the back of a sheriff's car that I called out to God and said \"Lord help me!\"   I then ran for my life (new life I craved for) and escaped the law. Long story short, I absconded to San Diego, where I met my wife, came back to Yuma with her by my side, and turned my self in to the authorities.<br> <br>       I served my time in juvenile hall till my eighteenth birthday when i was released. Shortly after having our first child I was reminded of the fact that I needed to get right with God. I had been putting it off, but His Spirit had been convicting me. One day I got on my knees and cried out to God \"Lord I can't do this, I can't be good, I'm not righteous, I want You to change me... I repent of my sins and ask that you come into my heart.\"  Ever since then, The Lord has been pruning me and conforming me to the image of His Son Jesus Christ. The Lord's work is ever present in my life. Whatever time you've spent or are currently spending in the world it has been too long. Has He been knocking on the door of your heart?  Invite Him in and allow Him to begin a good work in you.<br>"
+        }
+      ]
+    },
+    "gallery.html": {
+      "settings": {
+        "title": "Photo Gallery"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "#222"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#fff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".navbar-toggler i, .navbar-toggler em, .navbar-toggler i:before, .navbar-toggler em:before, .navbar-toggler i:after, .navbar-toggler em:after": {
+              "background": "#000000"
+            },
+            ".navbar-toggler[aria-expanded=\"true\"] i, .navbar-toggler[aria-expanded=\"true\"] em": {
+              "background": "transparent"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#222"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#222!important"
+            }
+          },
+          "alias": "spacem/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu1",
+          "_anchor": "menu1-18",
+          "_params": {
+            "bgColor": "#fff",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#000000",
+            "fontHoverColor": "#222",
+            "transparent": true,
+            "sticky": false,
+            "logo": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/my-final-logo-128x128-51.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"connect.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"connect.html\">Connect</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">About &nbsp;us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">About CCYuma</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Serve &amp; give</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">about us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">The word</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a></div></li>"
+        },
+        {
+          "alias": "spacem/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bike.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/code-man-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/code-man.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/coworkers-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/coworkers.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/desktop-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/desktop.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/room-laptop-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/table-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/table.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/windows-books-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/windows-books.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/working-area-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/working-area.jpg",
+                "caption": "Type caption here"
+              }
+            ],
+            "spacing": 0,
+            "showText": false,
+            "filter": true,
+            "bgColor": "#FFFFFF",
+            "showBullets": true
+          },
+          "_anchor": "gallery1-1l",
+          "articleLayout": false,
+          "arrowLeft": "@PROJECT_PATH@/assets/images/arrow-left.svg",
+          "arrowRight": "@PROJECT_PATH@/assets/images/arrow-right.svg"
+        }
+      ]
+    },
+    "bible-messages.html": {
+      "settings": {
+        "title": "Bible Messages"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "#222"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#fff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".navbar-toggler i, .navbar-toggler em, .navbar-toggler i:before, .navbar-toggler em:before, .navbar-toggler i:after, .navbar-toggler em:after": {
+              "background": "#000000"
+            },
+            ".navbar-toggler[aria-expanded=\"true\"] i, .navbar-toggler[aria-expanded=\"true\"] em": {
+              "background": "transparent"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#222"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#222!important"
+            }
+          },
+          "alias": "spacem/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu1",
+          "_anchor": "menu1-1i",
+          "_params": {
+            "bgColor": "#fff",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#000000",
+            "fontHoverColor": "#222",
+            "transparent": true,
+            "sticky": false,
+            "logo": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/my-final-logo-128x128-51.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"connect.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"connect.html\">Connect</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">About &nbsp;us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">About CCYuma</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Serve &amp; give</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">about us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">The word</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a></div></li>"
         }
       ]
     }
