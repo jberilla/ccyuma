@@ -894,10 +894,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "1.15rem"
+              "font-size": "0.85rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.245rem"
+              "font-size": "0.921rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "#fff"
@@ -942,7 +942,7 @@
           "_anchor": "menu2-i",
           "_params": {
             "bgColor": "#e5e5e5",
-            "fontSize": "1.15",
+            "fontSize": "0.85",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "#fff",
@@ -977,7 +977,7 @@
           "_styles": {
             "P": {
               "text-align": "center",
-              "font-size": "30px",
+              "font-size": "24px",
               "color": "#ffffff"
             }
           },
@@ -1021,7 +1021,7 @@
           },
           "_anchor": "header3-1",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": "0",
             "parallax": true,
             "bgImageRadio": false,
@@ -1254,7 +1254,7 @@
           "_anchor": "menu2-u",
           "_params": {
             "bgColor": "#e5e5e5",
-            "fontSize": "1.15",
+            "fontSize": "0.85",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "#fff",

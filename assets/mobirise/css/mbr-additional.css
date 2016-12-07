@@ -1217,11 +1217,11 @@ a:hover,
   color: #ffffff;
 }
 #menu2-i .link {
-  font-size: 1.15rem;
+  font-size: 0.85rem;
 }
 #menu2-i .dropdown-item,
 #menu2-i .nav-dropdown-sm .link {
-  font-size: 1.245rem;
+  font-size: 0.921rem;
 }
 #menu2-i .link:hover,
 #menu2-i .dropdown-item:hover,
@@ -1276,7 +1276,7 @@ a:hover,
 }
 #text1-12 P {
   text-align: center;
-  font-size: 30px;
+  font-size: 24px;
   color: #ffffff;
 }
 #header3-1 P {
