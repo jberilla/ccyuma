@@ -1206,22 +1206,22 @@ a:hover,
   color: #ffffff;
 }
 #menu2-i .navbar-toggler {
-  color: #000000;
+  color: #ffffff;
 }
 #menu2-i .close-icon::before,
 #menu2-i .close-icon::after {
-  background-color: #000000;
+  background-color: #ffffff;
 }
 #menu2-i .link,
 #menu2-i .dropdown-item {
-  color: #000000;
+  color: #ffffff;
 }
 #menu2-i .link {
-  font-size: 0.75rem;
+  font-size: 1.15rem;
 }
 #menu2-i .dropdown-item,
 #menu2-i .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 1.245rem;
 }
 #menu2-i .link:hover,
 #menu2-i .dropdown-item:hover,
@@ -1246,7 +1246,7 @@ a:hover,
   background: #e5e5e5;
 }
 #menu2-i .bg-color.transparent .link {
-  color: #000000;
+  color: #ffffff;
   transition: none;
 }
 #menu2-i .navbar-toggler i,
@@ -1255,7 +1255,7 @@ a:hover,
 #menu2-i .navbar-toggler em:before,
 #menu2-i .navbar-toggler i:after,
 #menu2-i .navbar-toggler em:after {
-  background: #000000;
+  background: #ffffff;
 }
 #menu2-i .navbar-toggler[aria-expanded="true"] i,
 #menu2-i .navbar-toggler[aria-expanded="true"] em {
@@ -1276,8 +1276,8 @@ a:hover,
 }
 #text1-12 P {
   text-align: center;
-  font-size: 24px;
-  color: #e5e5e5;
+  font-size: 30px;
+  color: #ffffff;
 }
 #header3-1 P {
   text-align: center;
