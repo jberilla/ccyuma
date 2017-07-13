@@ -1131,12 +1131,6 @@ a:hover,
 #menu2-i .dropdown-item[aria-expanded="true"] {
   color: #222!important;
 }
-#text1-12 P {
-  text-align: center;
-  font-size: 24px;
-  color: #222222;
-  font-family: 'Arapey', sans-serif;
-}
 #header3-1 P {
   text-align: center;
   font-size: 14px;
@@ -1145,6 +1139,12 @@ a:hover,
 #header3-1 SPAN {
   font-size: 60px;
   color: #222222;
+}
+#text1-12 P {
+  text-align: center;
+  font-size: 24px;
+  color: #222222;
+  font-family: 'Arapey', sans-serif;
 }
 #social2-o .mbr-section-title,
 #social2-o .btn-social {
